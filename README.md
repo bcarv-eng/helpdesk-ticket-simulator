@@ -10,9 +10,3 @@ Sistema simples em Python para simular a abertura e registro de chamados de supo
 ## Como executar
 ```bash
 python main.py
-
-## Autora
-
-**Barbara Carvalho**  
-Estudante de Engenharia de Software  
-[LinkedIn](https://linkedin.com/in/bcarv-eng)
