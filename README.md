@@ -18,3 +18,11 @@ Sistema desenvolvido em Python para simular o registro de tickets de suporte té
 1. Certifique-se de ter o interpretador Python instalado.
 2. Faça o download ou clone este repositório.
 3. No terminal, execute:
+python main.py
+4. Siga as instruções apresentadas na tela.
+
+## Autora
+
+**Barbara Carvalho**  
+Estudante de Engenharia de Software  
+[LinkedIn](https://linkedin.com/in/bcarv-eng)
